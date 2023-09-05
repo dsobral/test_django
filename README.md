@@ -41,7 +41,7 @@ With a script tag:
 
 
 ```html
-<clipboard-copy value="src/index.js">This is a test</clipboard-copy>
+This is a test
 ```
 
 

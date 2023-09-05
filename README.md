@@ -39,6 +39,12 @@ With a script tag:
 <clipboard-copy value="src/index.js">Copy</clipboard-copy>
 ```
 
+
+```html
+<clipboard-copy value="src/index.js">This is a test</clipboard-copy>
+```
+
+
 ### Element content
 
 ```html
